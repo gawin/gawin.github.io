@@ -1,17 +1,17 @@
 {
   "alarms": [
     {
-      "time": 1234,
+      "time": "18:00",
       "title": "Koken",
       "snooze": false
     },
     {
-      "time": 1337,
+      "time": "12:37",
       "title": "Test",
       "snooze": true
     },
     {
-      "time": 2020,
+      "time": "20:20",
       "title": "Vuilnis",
       "snooze": false
     }
