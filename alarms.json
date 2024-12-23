@@ -1,0 +1,19 @@
+{
+  "alarms": [
+    {
+      "time": 1234,
+      "title": "Koken",
+      "snooze": false
+    },
+    {
+      "time": 1337,
+      "title": "Test",
+      "snooze": true
+    },
+    {
+      "time": 2020,
+      "title": "Vuilnis",
+      "snooze": false
+    }
+  ]
+}
