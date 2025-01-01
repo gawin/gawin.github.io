@@ -6,6 +6,11 @@
       "snooze": true
     },
     {
+      "time": "06:50",
+      "title": "Todo",
+      "snooze": true
+    },
+    {
       "time": "12:30",
       "title": "Mail",
       "snooze": true
