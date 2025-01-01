@@ -1,18 +1,18 @@
 {
   "alarms": [
     {
-      "time": "18:00",
-      "title": "Koken",
-      "snooze": false
-    },
-    {
-      "time": "12:37",
-      "title": "Test",
+      "time": "06:30",
+      "title": "Mail",
       "snooze": true
     },
     {
-      "time": "20:20",
-      "title": "Vuilnis",
+      "time": "12:30",
+      "title": "Mail",
+      "snooze": true
+    },
+    {
+      "time": "17:30",
+      "title": "Koken",
       "snooze": false
     }
   ]
