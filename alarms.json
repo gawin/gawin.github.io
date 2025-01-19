@@ -19,6 +19,70 @@
       "time": "17:30",
       "title": "Koken",
       "snooze": false
+    },
+    {
+      "time": "20:45",
+      "title": "Vuilnis Groen",
+      "recur": {
+        "week": 0,
+        "weekday":[
+          2
+        ]
+      },
+      "snooze": true
+    },
+    {
+      "time": "18:30",
+      "title": "Bedtime (even)",
+      "recur": {
+        "week": 0,
+        "weekday":[
+          2,4,5,6,7
+        ]
+      },
+      "snooze": false
+    },
+    {
+      "time": "18:30",
+      "title": "Bedtime (uneven)",
+      "recur": {
+        "week": 1,
+        "weekday":[
+          2,3
+        ]
+      },
+      "snooze": false
+    },
+    {
+      "time": "20:45",
+      "title": "Vuilnis Oranje",
+      "recur": {
+        "week": 1,
+        "weekday":[
+          2
+        ]
+      },
+      "snooze": true
+    },
+    {
+      "time": "20:45",
+      "title": "Vuilnis Grijs",
+      "dates": [
+        "2025-01-29",
+        "2025-02-26",
+        "2025-03-26",
+        "2025-04-23",
+        "2025-05-21",
+        "2025-06-18",
+        "2025-07-16",
+        "2025-08-13",
+        "2025-09-10",
+        "2025-10-08",
+        "2025-11-05",
+        "2025-12-03",
+        "2026-01-01"
+      ],
+      "snooze": true
     }
   ]
 }
